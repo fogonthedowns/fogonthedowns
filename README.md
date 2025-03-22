@@ -1,4 +1,7 @@
-### The internet is what you make it 👋
+### Building the AI-Powered Support
+### for modern teams.
+### TicketSidekick helps support engineers handle more tickets, 
+### reduce response times, and improve customer satisfaction.
 
 <!--
 **fogonthedowns/fogonthedowns** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
